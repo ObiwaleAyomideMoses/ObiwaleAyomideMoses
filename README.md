@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ObiwaleAyomideMoses
-- 👀 I am a Blockchain developer, Machine learning engineer
+- 👀 I am a React Native Developer
 - 📫 Send a message to obiwaleayomidemoses@gmail.com
 
 <!---
