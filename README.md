@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ObiwaleAyomideMoses
-- 👀 I am a React Native Developer
+- 👀 I am a full stack developer. Expert in React Native, NodeJS
+- Good codes are readable, understandable, covered by automated tests, not over complicated and does well what is intended to do
 - 📫 Send a message to obiwaleayomidemoses@gmail.com
 
 <!---
